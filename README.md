@@ -1,4 +1,3 @@
 Linux Arcade
-Sistema para arcades e fliperamas baseado em Linux.
-Simples, prático e fácil de usar.
-Grupo do Telegram https://abre.ai/i14O
+OS for you to build your arcade. Easy, simple and fast.
+Telegram group - https://abre.ai/i14O
