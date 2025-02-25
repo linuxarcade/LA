@@ -6,11 +6,11 @@ It runs most arcade systems and consoles.
 100% FREE
 Telegram group - https://abre.ai/i14O
 
+Access the download page:
+https://github.com/linuxarcade/LA/releases
+
 32 bits
 https://sourceforge.net/projects/linux-arcade/files/32%20bits/Linux-Arcade-2.3-32-bits.iso/download
-
-64 bits
-https://sourceforge.net/projects/linux-arcade/files/64%20bits/Linux-Arcade-2.5.2-x64.iso/download
 
 How to install
 https://www.youtube.com/watch?v=ceuJ_bRTI-4
