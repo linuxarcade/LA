@@ -1,7 +1,9 @@
 In the process of migrating to GitHub.
 
 Linux Arcade
-OS for you to build your arcade. Easy, simple and fast.
+OS for you to build your arcade. Easy, simple and fast. Optimized and ready to use system.
+It runs most arcade systems and consoles.
+100% FREE
 Telegram group - https://abre.ai/i14O
 
 32 bits
