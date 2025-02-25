@@ -12,3 +12,9 @@ https://sourceforge.net/projects/linux-arcade/files/64%20bits/Linux-Arcade-2.5.2
 
 How to install
 https://www.youtube.com/watch?v=ceuJ_bRTI-4
+
+How to transfer files to Linux Arcade
+https://youtu.be/BVyccOgTdSU
+
+How to burn Linux Arcade image to USB stick with Rufus
+https://www.youtube.com/watch?v=UuV1QSInbIg
