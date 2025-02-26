@@ -7,9 +7,6 @@ Telegram group - https://t.me/+miyiPGz5YKs4NmQx
 Access the download page:
 https://github.com/linuxarcade/LA/releases
 
-32 bits
-https://sourceforge.net/projects/linux-arcade/files/32%20bits/Linux-Arcade-2.3-32-bits.iso/download
-
 How to install
 https://www.youtube.com/watch?v=ceuJ_bRTI-4
 
